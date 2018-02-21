@@ -1,3 +1,5 @@
 #sudo pip install -r requirements.txt
 scipy
 numpy
+itertools
+matplotlib
